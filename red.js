@@ -1,0 +1,1 @@
+var red =createSprite(20,20,20,20);
